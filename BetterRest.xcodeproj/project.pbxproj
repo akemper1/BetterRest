@@ -11,6 +11,7 @@
 		3AB975DE299999FE002C6BF9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB975DD299999FE002C6BF9 /* ContentView.swift */; };
 		3AB975E0299999FF002C6BF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AB975DF299999FF002C6BF9 /* Assets.xcassets */; };
 		3AB975E4299999FF002C6BF9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AB975E3299999FF002C6BF9 /* Preview Assets.xcassets */; };
+		3AB975EB299ACE0C002C6BF9 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3AB975EA299ACE0C002C6BF9 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3AB975DF299999FF002C6BF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AB975E1299999FF002C6BF9 /* BetterRest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BetterRest.entitlements; sourceTree = "<group>"; };
 		3AB975E3299999FF002C6BF9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AB975EA299ACE0C002C6BF9 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3AB975DB299999FE002C6BF9 /* BetterRestApp.swift */,
 				3AB975DD299999FE002C6BF9 /* ContentView.swift */,
+				3AB975EA299ACE0C002C6BF9 /* SleepCalculator.mlmodel */,
 				3AB975DF299999FF002C6BF9 /* Assets.xcassets */,
 				3AB975E1299999FF002C6BF9 /* BetterRest.entitlements */,
 				3AB975E2299999FF002C6BF9 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AB975DE299999FE002C6BF9 /* ContentView.swift in Sources */,
+				3AB975EB299ACE0C002C6BF9 /* SleepCalculator.mlmodel in Sources */,
 				3AB975DC299999FE002C6BF9 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
